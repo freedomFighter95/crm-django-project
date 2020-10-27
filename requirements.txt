@@ -33,7 +33,7 @@ chardet==3.0.4
 cliff==2.16.0
 cmd2==0.8.9
 colorama==0.4.1
-cryptography==2.8
+cryptography==3.2
 debtcollector==1.22.0
 decorator==4.4.0
 Django==2.2.6
